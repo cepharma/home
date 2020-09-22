@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="15px" viewBox="0 0 31 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Acceso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Acceso-1-Copy" transform="translate(-970.000000, -406.000000)" fill="#da9b1d">
+            <g id="Group" transform="translate(739.000000, 269.000000)">
+                <g id="CTA" transform="translate(0.000000, 123.000000)">
+                    <path d="M255.0932,14.2595792 C254.761971,13.9134736 254.210696,13.9134736 253.867886,14.2595792 C253.536658,14.5939921 253.536658,15.1505673 253.867886,15.4842006 L258.53674,20.1979408 L231.857797,20.1979408 C231.37987,20.1987203 231,20.5822428 231,21.0647639 C231,21.547285 231.37987,21.9432797 231.857797,21.9432797 L258.53674,21.9432797 L253.867886,26.6453271 C253.536658,26.9914327 253.536658,27.5487875 253.867886,27.8824208 C254.210696,28.2285264 254.762743,28.2285264 255.0932,27.8824208 L261.232893,21.6837005 C261.575702,21.3492876 261.575702,20.7927124 261.232893,20.459079 L255.0932,14.2595792 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
